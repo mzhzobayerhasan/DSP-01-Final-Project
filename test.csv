@@ -1,0 +1,9 @@
+City,Vehicle Type,Weather,Economic Condition,Day Of Week,Hour Of Day,Speed,Is Peak Hour,Random Event Occurred,Energy Consumption,Traffic Density
+Chicago,Bus,Cloudy,Growing,Monday,17,31,True,False,64,High
+Los Angeles,Car,Sunny,Stable,Thursday,18,52,True,True,53,Medium
+Chicago,Bus,Cloudy,Growing,Monday,17,28,True,False,60,High
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,62,False,False,46,Low
+Chicago,Car,Sunny,Growing,Sunday,13,54,True,False,49,Low
+Los Angeles,Car,Sunny,Stable,Thursday,18,49,True,True,51,Medium
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,63,False,False,44,Low
+Los Angeles,Car,Cloudy,Stable,Wednesday,10,64,False,False,47,Low
